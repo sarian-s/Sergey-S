@@ -1,5 +1,5 @@
 
-![Сарьян Сергей](/Users/saryan/Desktop/test/дз3/Сергей.png)
+![Сарьян Сергей](https://github.com/sarian-s/Sergey-S/blob/main/Сергей.png)
 
 Мужчина, 48 лет, родился 20 июля 1973
 
