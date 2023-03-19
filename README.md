@@ -1,5 +1,5 @@
   	
-![**Сарьян Сергей **](https://drive.google.com/file/d/1MZ6pTn2L04OddUd3jfEy5LeLDXQKdENa/view?usp=share_link)
+![Сарьян Сергей](https://drive.google.com/file/d/1MZ6pTn2L04OddUd3jfEy5LeLDXQKdENa/view?usp=share_link):
 Мужчина, 48 лет, родился 20 июля 1973
 
 **+7 (926) 6037610**
