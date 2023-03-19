@@ -1,5 +1,5 @@
   	
-!Сарьян Сергей](https://drive.google.com/file/d/1MZ6pTn2L04OddUd3jfEy5LeLDXQKdENa/view?usp=share_link.png)
+!Сарьян Сергей](https://yandex.ru/images/search?pos=1&from=tabbar&img_url=http%3A%2F%2Fstatic.tildacdn.com%2Ftild6336-6565-4834-b433-616638643930%2F2_git_fetch_pull_pus.png&text=как+добавить+тему+в+github&rpt=simage&lr=213)
 
 Мужчина, 48 лет, родился 20 июля 1973
 
