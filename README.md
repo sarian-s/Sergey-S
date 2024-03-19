@@ -1,5 +1,4 @@
 
-![Сергей](https://user-images.githubusercontent.com/127656330/226184594-a3604c4c-e7e4-405d-8f87-af9f6fc9401f.png)
 
 от 90 000 руб
 
