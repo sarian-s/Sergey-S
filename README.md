@@ -3,7 +3,7 @@
 
 
 
--**предпочитаемый способ связи - SaryanQA@yandex.ru**
+-**Предпочитаемый способ связи - SaryanQA@yandex.ru**
 
 -**Другой сайт:** https://t.me/Saryan_S
 
