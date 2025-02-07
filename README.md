@@ -47,6 +47,7 @@
 - работа с консолью браузера (DevTools)
 
 
+
 Июль 2023 — по настоящее время
 1 год 8 месяцев
 Москва, profi.ru
@@ -72,6 +73,7 @@
 DevTools, Postman, Kibana, Jira, Figma, Confluence, TestRail, DBeaver, AndroidStudio, Xcode, Charles Proxy, PostgreSQL.
 
 
+
 Январь 2023 — Май 2024
 1 год 5 месяцев
 Нетология
@@ -88,6 +90,7 @@ DevTools, Postman, Kibana, Jira, Figma, Confluence, TestRail, DBeaver, AndroidSt
 Повышение квалификации, автоматизация тестирования
 
 
+
 Июль 2022 — Декабрь 2022
 6 месяцев
 Яндекс
@@ -102,6 +105,7 @@ DevTools, Postman, Kibana, Jira, Figma, Confluence, TestRail, DBeaver, AndroidSt
 - Тестирование приложений по готовым тест кейсам на Яндекс трекере
 - Оформление баг репортов в Яндекс трекере
 - Тестирование мобильных приложений на ферме физических устройств Яндекса, а так же на реальных устройствах.
+
 
  
 - Ноябрь 2007 — октябрь 2018
